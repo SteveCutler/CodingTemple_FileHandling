@@ -24,6 +24,7 @@
 import re
 import os
 
+
 def extract_emails(filename):
     
     with open(filename, "r") as file:
